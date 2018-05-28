@@ -1,2 +1,2 @@
 Coding by Mingwei-Tan.
-@ArthusTan
+Copyright @ArthusTan
